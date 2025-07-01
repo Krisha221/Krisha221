@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishna
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning everything about web
-- 📫 How to reach me ... krisha221sai@gmail.com
+- 📫 How to reach me ... krishna221sai@gmail.com
 
 
 <!---
