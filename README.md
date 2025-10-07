@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna
-- 👀 I’m interested in web-development
+- 👀 I’m interested in web-development & cloud technologies
 - 🌱 I’m currently learning everything about web
 - 📫 How to reach me ... krishna221sai@gmail.com
 
